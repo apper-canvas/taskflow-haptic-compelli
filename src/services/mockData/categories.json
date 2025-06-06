@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "Development",
+    "color": "#3b82f6",
+    "taskCount": 4
+  },
+  {
+    "id": "2",
+    "name": "Design",
+    "color": "#8b5cf6",
+    "taskCount": 2
+  },
+  {
+    "id": "3",
+    "name": "Business",
+    "color": "#f59e0b",
+    "taskCount": 1
+  },
+  {
+    "id": "4",
+    "name": "Research",
+    "color": "#10b981",
+    "taskCount": 2
+  },
+  {
+    "id": "5",
+    "name": "Documentation",
+    "color": "#6b7280",
+    "taskCount": 1
+  },
+  {
+    "id": "6",
+    "name": "Meetings",
+    "color": "#ef4444",
+    "taskCount": 1
+  },
+  {
+    "id": "7",
+    "name": "Security",
+    "color": "#dc2626",
+    "taskCount": 1
+  }
+]
